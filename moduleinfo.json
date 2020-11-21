@@ -1,6 +1,6 @@
 {
     "name": "my-first-module",
-    "archiveName": "mycompany/my-first-module",
+    "archiveName": "robinthehood/my-first-module",
     "sourceDir": "new_files",
     "version": "auto",
     "shortDescription": "Kurzbeschreibung für my-first-module",
